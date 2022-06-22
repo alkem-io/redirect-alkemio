@@ -1,2 +1,3 @@
 # redirect-alkemio
-redirect script for alkem.io site
+
+This repo contains a Netlify config file that will redirect the http://alkem.io site to https://alkemio.foundation with a 301 code (moved permanently). This should ensure that the Alkemio SEO is maintained.
